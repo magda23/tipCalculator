@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Space Mono";
+  src: url("../fonts/SpaceMono-Bold.eot");
+  src: url("../fonts/SpaceMono-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SpaceMono-Bold.woff2") format("woff2"),
+    url("../fonts/SpaceMono-Bold.woff") format("woff"),
+    url("../fonts/SpaceMono-Bold.ttf") format("truetype"),
+    url("../fonts/SpaceMono-Bold.svg#SpaceMono-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
